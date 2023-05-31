@@ -1,2 +1,6 @@
 ничего не понтяно
+<<<<<<< HEAD
 Ветка ansible-user
+=======
+Ветка ansible-web
+>>>>>>> ansible-web
